@@ -26,3 +26,9 @@ After running the API server, run
 ```
 python3 app_run.py
 ```
+
+# Reference
+TBU
+
+# Author
+YoungJoon Yoo, Department of AI
