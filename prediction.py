@@ -4,7 +4,7 @@ from openai import OpenAI
 class openai_stock_prediction:
   def __init__(self):
 
-    self.client = OpenAI(api_key='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')
+    self.client = OpenAI(api_key='put_your_api_key')
     self.base_prompt = "Economic Self-Reliance Is a Dangerous Delusion: negative\
               \nWall St climbs, powered by chips, megacaps earning in focus: positve\
               \nUS consumer sentiment rises solidly in January: positive\
