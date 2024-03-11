@@ -1,0 +1,3 @@
+[submodule "ComputerVision-2401"]
+	path = ComputerVision-2401
+	url = https://github.com/PiLab-CAU/ComputerVision-2401.git
